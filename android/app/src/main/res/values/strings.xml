@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MDS_XRF</string>
+    <string name="title_activity_main">MDS_XRF</string>
+    <string name="package_name">com.android.mds</string>
+    <string name="custom_url_scheme">com.android.mds</string>
+</resources>
